@@ -1,6 +1,6 @@
 [
     {
         "name": "todo-cont",
-        "imageUri": "741401799044.dkr.ecr.us-east-1.amazonaws.com/my-repo:latest"
+        "imageUri": "741401799044.dkr.ecr.us-east-1.amazonaws.com/my-repo:CODEBUILD_BUILD_NUMBER"
     }
 ]
